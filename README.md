@@ -1,5 +1,7 @@
 Link a la página:
 https://ailahtan.github.io/historiasdeconstruidas/
+Link a codeSanbox:
+https://codesandbox.io/s/eloquent-currying-0nk1x
 
 # Getting Started with Create React App
 
